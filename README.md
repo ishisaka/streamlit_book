@@ -1,2 +1,7 @@
 # streamlit_book
-書籍Streamlit入門の練習帳
+
+[Streamlit入門　Pythonで学ぶデータ可視化＆アプリ開発ガイド \| インプレス NextPublishing](https://nextpublishing.jp/book/18323.html)の練習帳です。
+
+
+
+
